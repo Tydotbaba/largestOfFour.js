@@ -1,5 +1,4 @@
-# largestOfFour.js
 
-This code checksif a string (first argument, str) ends with the given target string (second argument, target).
-
-But for the purpose of this challenge, Ihave used te JavaScript substring methods instead.
+# The Challenge Description
+Return an array consisting of the largest number from each provided sub-array. For simplicity, the provided array will contain exactly 4 sub-arrays.
+Remember, you can iterate through an array with a simple for loop, and access each member with array syntax arr[i].
